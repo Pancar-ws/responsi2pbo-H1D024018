@@ -2,8 +2,8 @@
 
 **Dibuat oleh:** Pancar Wahyu Setiabi  
 **NIM:** H1D024018  
-**Shift Baru:** F    
-**Shift KRS:** C-D
+**Shift Baru:** E    
+**Shift KRS:** C
 
 ---
 
